@@ -1,3 +1,5 @@
 body {
-    background-color: burlywood;
+    background-color: #F7E9BE;
+    display: flex;
+    justify-content: center;
 }
